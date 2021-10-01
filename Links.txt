@@ -1,0 +1,16 @@
+List of Links
+https://www.naturalearthdata.com/downloads/
+https://opendata.swiss/de/dataset/bauprojekte-infrastruktur/resource/ef49a6f5-7a1a-4e89-a189-9fe57bafb01f
+https://stacindex.org/
+https://geodienste.ch/services/av
+https://www.ag.ch/app/agisviewer4/v1/?config=agis_geoportal_fs.json&basemap=base_landeskarten_sw&thema=176
+https://opendata.swiss/de
+https://www.swisstopo.admin.ch/de/geodata.html
+
+https://fontawesome.com/v5.15/icons?d=gallery&p=2&s=regular,solid&m=free
+
+https://rasterio.readthedocs.io/en/latest/topics/tags.html
+https://nbviewer.jupyter.org/github/python-visualization/folium/tree/master/examples/
+https://epsg.io/2056
+https://geopandas.org/
+https://pyproj4.github.io/pyproj/stable/api/transformer.html#pyproj-transformer
